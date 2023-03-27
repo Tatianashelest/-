@@ -1,0 +1,15 @@
+/Users/tatanaselest/Desktop/Итоговый проект/itog/bin/Debug/net6.0/itog
+/Users/tatanaselest/Desktop/Итоговый проект/itog/bin/Debug/net6.0/itog.deps.json
+/Users/tatanaselest/Desktop/Итоговый проект/itog/bin/Debug/net6.0/itog.runtimeconfig.json
+/Users/tatanaselest/Desktop/Итоговый проект/itog/bin/Debug/net6.0/itog.dll
+/Users/tatanaselest/Desktop/Итоговый проект/itog/bin/Debug/net6.0/itog.pdb
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.csproj.AssemblyReference.cache
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.AssemblyInfoInputs.cache
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.AssemblyInfo.cs
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.csproj.CoreCompileInputs.cache
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.dll
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/refint/itog.dll
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.pdb
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/itog.genruntimeconfig.cache
+/Users/tatanaselest/Desktop/Итоговый проект/itog/obj/Debug/net6.0/ref/itog.dll
